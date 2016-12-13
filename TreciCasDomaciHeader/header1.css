@@ -1,0 +1,54 @@
+
+Ovo je ceo html
+
+[8:56]  
+<nav>
+            <ul>
+                <li class="left"><a href="#">A</a></li>
+                <li class="left"><a href="#">B</a></li>
+                <li class="center"><a href="#"><img class="logo" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png " alt="logo" width="200"></a></li>
+                <li class="right"><a href="#">C</a></li>
+                <li class="right"><a href="#">D</a></li>
+            </ul>
+        </nav>
+
+[8:57]  
+i ovo je ceo css
+
+[8:57]  
+nav {
+    text-align: center;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+}
+nav {
+    text-align: center;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+.right {
+    float: right;
+    margin: 100px 20px 0;
+}
+
+.left {
+    float: left;
+    margin: 100px 20px 0;
+}
+
+.center {
+    float: center;
+}
