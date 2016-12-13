@@ -1,0 +1,44 @@
+
+
+article.box1,article.box2,article.box3,article.box4{
+	border: 5px solid #242424;
+	margin:10px;
+	width: 250px;
+	padding: 20px;
+	top:200px;
+	left: 50px;
+	position: relative;
+	border-radius: 10%;
+	float: left;
+	padding-top: 50px;
+	
+}
+
+div.krug1,div.krug2,div.krug3,div.krug4{
+	width: 70px;
+	height: 70px;
+	border: 5px solid #242424;
+	border-radius: 50%;
+	background-color: black;
+	position: relative;
+}
+
+div.krug1{
+	left: 167px;
+	top:173px;
+}
+
+div.krug2{
+	left: 488px;
+	top:95px;
+}
+
+div.krug3{
+	left: 808px;
+	top:15px;
+}
+
+div.krug4{
+	left: 1130px;
+	top:-65px;
+}
