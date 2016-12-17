@@ -1,0 +1,54 @@
+article{
+	width: 50%;
+	height: 600px;
+	margin: 100px auto;
+	background-color: #999999;
+	border-radius: 10px;
+	overflow:hidden;
+
+
+}
+
+.cover{
+	background: url(http://bossfight.co/wp-content/uploads/2015/08/boss-fight-free-stock-high-resolution-images-photos-photography-sunset-ocean.jpg);
+	width: 100%;
+	height: 300px;
+	background-size: cover;
+}
+
+section{
+	margin: 20px;
+	border: 1px solid #242424;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+a{
+	margin-left: 20px;
+	position: absolute;
+	bottom: 5px;
+	
+	
+}
+
+img{
+	width: 50px;
+	height: 50px;
+	border-radius: 50px;
+	float: right;
+	margin-right: 5%;
+
+}
+
+a:hover{
+	color:red;
+}
+
+a:visited{
+	color: green;
+}
+
+
+h3{
+	margin: 20px;
+}

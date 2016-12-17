@@ -1,0 +1,98 @@
+.main{
+	width: 100%;
+	height: 200px;
+	top:300px;
+	position: relative;
+	
+}
+
+.prvi, .drugi, .treci{
+	width: 300px;
+	height: 200px;
+	margin-left: 110px;
+	display: inline-block;
+	border: inset;
+
+
+}
+
+.prvi{
+	background: url('http://foto.images-tiscover.com/fotos/0/3/1024/576/80/FFFFFF/http%3A%2F%2Ffoto-origin.images-tiscover.com%2Fat%2Fimages%2FRGN%2F280%2FRGN102280at%2Fregion-villach-faaker-see-ossiacher-see-kaernten-2sqwf.jpg/7Axei2WNj0EpGYY5gOgpoA%3D%3D/z/7/region-villach-faaker-see-ossiacher-see-kaernten-2sqwf.jpg');
+	background-position: top;
+	background-size: 300px 60%;
+	background-repeat: no-repeat;
+	background-color: white;
+	
+
+}
+
+.drugi{
+	background: url('http://handluggageonly.co.uk/wp-content/uploads/2015/09/1.jpg');
+	background-position: top;
+	background-size: 300px 60%;
+	background-repeat: no-repeat;
+	background-color: white;
+	
+}
+
+.treci{
+	background: url('http://s.hswstatic.com/gif/10-breathtaking-views-1-622x415.jpg');
+	background-position: top;
+	background-size: 300px 60%;
+	background-repeat: no-repeat;
+	background-color: white;
+}
+
+
+.logo1{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: white !important; 
+	background: url('http://design.ubuntu.com/wp-content/uploads/ubuntu-logo32.png');
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	top:94px;
+	left: 118px;
+	position: relative;
+
+
+}
+
+.slika{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: white !important; 
+	background: url('http://babatmobilya.com/gallery/photo-ts1463330908.jpg');
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	top:94px;
+	left: 118px;
+	position: relative;
+}
+
+.slicica{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	background-color: white !important; 
+	background: url('https://ideasinspiringinnovation.files.wordpress.com/2010/01/logo_ubuntu.png?w=130&h=130');
+	background-size: 30px 30px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	top:94px;
+	left: 118px;
+	position: relative;
+}
+
+p{
+	display: inline;
+	top:70%;
+	position: absolute;
+	margin-left: 80px;
+}
+
+
